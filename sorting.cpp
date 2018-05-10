@@ -1,6 +1,7 @@
 #include<iostream.h>
 int main()
 {
+	//Kalyan 108117058
 	int A[10],n=10;
 	for(int i=0;i<n;i++)
 		cin>>A[i];
