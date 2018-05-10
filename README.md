@@ -7,3 +7,4 @@ Now, let me list down a few things about me (venturing markdown)
 * Hometown: _Chennai_
 * School: _DAV Girls Sr Sec School, Gopalapuram_
 * Currently pursuing, _ECE_ at _NIT Trichy_
+Have started this _summer_ learning **git** ! Already _**loving**_ it !
